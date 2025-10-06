@@ -1,8 +1,8 @@
 // src/app/page.tsx
 
 // Importamos el componente Header desde nuestro alias @/
-import { Header } from '@/components/Header'; 
-import { Footer } from '@/components/Footer'; // Lo importaremos en el siguiente paso
+import { Header } from 'C:\Users\Yolanda Gonzalez\condominium-marketing\src\components\Header'; 
+import { Footer } from 'C:\Users\Yolanda Gonzalez\condominium-marketing\src\components\Footer'; // Lo importaremos en el siguiente paso
 
 export default function LandingPage() {
   return (
